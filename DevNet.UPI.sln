@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample Application", "Sampl
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Sample Application VB", "Sample Application VB\Sample Application VB.vbproj", "{E3A96299-F179-479D-A2BF-8B014D48CDF9}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Integrated Sample Application", "Integrated Sample Application\Integrated Sample Application.vbproj", "{8E53965E-7990-4246-896A-F476A64E085C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E3A96299-F179-479D-A2BF-8B014D48CDF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3A96299-F179-479D-A2BF-8B014D48CDF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3A96299-F179-479D-A2BF-8B014D48CDF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E53965E-7990-4246-896A-F476A64E085C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E53965E-7990-4246-896A-F476A64E085C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E53965E-7990-4246-896A-F476A64E085C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E53965E-7990-4246-896A-F476A64E085C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
